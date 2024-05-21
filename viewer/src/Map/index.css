@@ -1,0 +1,13 @@
+:root {
+  height: 100vh;
+  width: 100vw;
+}
+
+div.selectors {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;;
+  background-color: rgba(255, 255, 255, 0.6 );
+  color: black;
+  padding: 1em;
+}

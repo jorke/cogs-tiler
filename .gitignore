@@ -1,0 +1,23 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+
+.vscode
+.venv
+.ipynb*
+__pycache__
+
+endpoint
+cogs-convert
+venv
+testdata
+notebook
+
+.DS_Store
+infra/lib/wip/*
